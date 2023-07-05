@@ -22,6 +22,8 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -98,6 +100,27 @@ Install this project with:
 
 Note: this proyect does not require an instalation
 
+### Usage
+
+This project has no practical Usage
+
+### Run tests
+
+You can run Webhint or Styleint in the project to check for linter errors using the following comands.
+
+Webhint:
+
+```
+npx hint .
+```
+
+Styleint:
+
+```
+npx stylelint "**/*.{css,scss}"
+```
+
+
 ### Deployment
 
 You can deploy this project using:
@@ -114,7 +137,7 @@ You can deploy this project using:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
+👤 **Mateoburvi**
 
 - GitHub: [@mateoburvi](https://github.com/mateoburvi)
 - Twitter: [@mateoburvi](https://twitter.com/mateoburvi)
